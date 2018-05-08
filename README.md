@@ -1,14 +1,14 @@
-# Μάθημα: Τεχνολογίες Λογισμικού  
+# Μάθημα: Τεχνολογίες Λογισμικού 
+# Τελική Αναφορά  
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK) 
-## Τελική Αναφορά 
- Ονοματεπώνυμο: **Καραντζή Παναγιώτα**  
- Αριθμός Μητρώου: **Π2015130**  
- e-mail: **p15kara3@ionio.gr** 
- Προσωπικό αποθετήριο του κώδικα, *στο οποίο έγιναν αλλαγές*: [Link αποθετηρίου του κώδικα](https://github.com/p15kara3/D3js-uk-political-donations/tree/gh-pages)  
- Link για το εκτελέσιμο: [Link εκτελέσιμου](https://p15kara3.github.io/D3js-uk-political-donations/)  
-   
-   * Link για τα παραδοτέα 1 και 2: [Παραδοτέα 1&2](https://github.com/courses-ionio/sw/tree/master/projects/2015130)
+
+ * Ονοματεπώνυμο: **Καραντζή Παναγιώτα**  
+ * Αριθμός Μητρώου: **Π2015130**  
+ * e-mail: **p15kara3@ionio.gr** 
+ * Προσωπικό αποθετήριο του κώδικα, *στο οποίο έγιναν αλλαγές*: [Link αποθετηρίου του κώδικα](https://github.com/p15kara3/D3js-uk-political-donations/tree/gh-pages)  
+ * Link για το εκτελέσιμο: [Link εκτελέσιμου](https://p15kara3.github.io/D3js-uk-political-donations/)    
+ * Link για τα παραδοτέα 1 και 2: [Παραδοτέα 1&2](https://github.com/courses-ionio/sw/tree/master/projects/2015130)
  
 
 ## Εισαγωγή  
@@ -62,4 +62,15 @@
 Έγιναν οι απαραίτητες αλλαγές στον κώδικα. Στο αρχείο [index](https://github.com/p15kara3/D3js-uk-political-donations/blob/gh-pages/index.html) στις γραμμές 76-78 [style.css](https://github.com/p15kara3/D3js-uk-political-donations/blob/gh-pages/style.css) στις 88-95 [chart.js](https://github.com/p15kara3/D3js-uk-political-donations/blob/gh-pages/chart.js) στις 404-411.  
 
 ![icons](https://user-images.githubusercontent.com/22661913/39725692-64d559a8-5255-11e8-9b02-918be1d8a88a.gif)  
+
+## Συμπέρασμα  
+
+Στα πλαίσια της εργασίας δόθηκε η ευκαιρία στους φοιτητές να έρθουν σε επαφή με τις γλώσσες html,css, javascript και πιο συγκεκριμένα με την βιβλιοθήκη D3 της javascript. Επιπλέον, έμαθαν να δημιουργούν ιστοσελίδες με τη βοήθεια των github-pages, καθώς και διαδικασίες του github όπως το fork και το pull-request. 
   
+## Αναφορές  
+https://www.w3schools.com/html/  
+https://www.w3schools.com/css/  
+https://www.javascript.com  
+https://www.youtube.com/watch?v=VlwSz2dXK_8  
+https://responsivevoice.org  
+http://tobiasahlin.com/moving-letters/  
